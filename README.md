@@ -3,13 +3,11 @@
 
 <h2 align="left">BS IT Student at Khawaja Fareed University of Engineering and Information Technology<br>📍 Pakistan</h2>
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
-<p align="left">
+
 ✨ Creating bugs since I started coding<br>
 📚 Currently learning programming, SQL, and AI basics<br>
-🎯 Goal: Become a strong software developer<br>
-🎲 Fun fact: I enjoy figuring out how things work step by step
+🎯 Goal: Become a strong software developer<br> 
 </p>
 
 <h2 align="left">I code with C, C++, Java, Python, PHP, SQL, HTML, CSS.</h2>
